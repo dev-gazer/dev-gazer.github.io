@@ -6,7 +6,23 @@
     <description>Recent content in Posts on Dev Gazer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Aug 2021 12:51:01 -0300</lastBuildDate><atom:link href="https://dev-gazer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Aug 2021 17:35:46 -0300</lastBuildDate><atom:link href="https://dev-gazer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenQVision</title>
+      <link>https://dev-gazer.github.io/posts/openqvision/</link>
+      <pubDate>Tue, 24 Aug 2021 17:35:46 -0300</pubDate>
+      
+      <guid>https://dev-gazer.github.io/posts/openqvision/</guid>
+      <description>Let us then launch this blog with a banger! Today I would like to present you a project I have been working hard these past couple of months. OpenQVision is a Open Source project that allows Computer Vision to become more readable by non-programmer users, or even helps data scientists to check their neural network models on the fly. Currently, OpenQVision works with camera streaming, and you&amp;rsquo;ll need to set as input the path for your model files, i.</description>
+      <content>&lt;p&gt;Let us then launch this blog with a banger! Today I would like to present you a project I have been working hard these past couple of months. OpenQVision is a Open Source project that allows Computer Vision to become more readable by non-programmer users, or even helps data scientists to check their neural network models on the fly.
+Currently, OpenQVision works with camera streaming, and you&amp;rsquo;ll need to set as input the path for your model files, i.e. weights, configuration and class names.
+It is also possible to integrate it with external actions. The version uploaded triggers a Telegram Bot that send a capture after the detection runs for some user-defined amount of frames. Let us say, if a guitar is seen on the screen for more than 10 consecutive frames.
+All right, before I forget, OpenQVision is written in C++. It is actually a port from its previous version, which was in Python language. For the sake of performance, I have managed to learn OpenCV in C++ and review my previous knowledge on Qt applications.&lt;/p&gt;
+&lt;p&gt;More details, access OpenQVision official repository &lt;a href=&#34;https://github.com/dev-gazer/OpenQVision,&#34;&gt;https://github.com/dev-gazer/OpenQVision,&lt;/a&gt; message me on Twitter at @dev_gazer, find me on LinkedIn at &lt;a href=&#34;https://www.linkedin.com/in/alexandremfaria/&#34;&gt;https://www.linkedin.com/in/alexandremfaria/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Now playing Slow Crush - Hush&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>~git~ blog init</title>
       <link>https://dev-gazer.github.io/posts/my-first-post/</link>
