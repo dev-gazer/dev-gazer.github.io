@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dev Gazer</title>
+    <link>https://dev-gazer.github.io/posts/</link>
+    <description>Recent content in Posts on Dev Gazer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Aug 2021 12:51:01 -0300</lastBuildDate><atom:link href="https://dev-gazer.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>~git~ blog init</title>
+      <link>https://dev-gazer.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 16 Aug 2021 12:51:01 -0300</pubDate>
+      
+      <guid>https://dev-gazer.github.io/posts/my-first-post/</guid>
+      <description>How ya doin&amp;rsquo; folks?
+$ sudo docker build -t us.gcr.io/hugo-themes/terminal . $ python3 test.py Now playing Slow Crush - Aurora</description>
+      <content>&lt;p&gt;How ya doin&amp;rsquo; folks?&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ sudo docker build -t us.gcr.io/hugo-themes/terminal .
+$ python3 test.py
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now playing Slow Crush - Aurora&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
