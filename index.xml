@@ -8,6 +8,25 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-gazer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenQVision v1.1.0</title>
+      <link>https://dev-gazer.github.io/posts/openqvision_v1.1.0/</link>
+      <pubDate>Thu, 26 Aug 2021 14:50:34 -0300</pubDate>
+      
+      <guid>https://dev-gazer.github.io/posts/openqvision_v1.1.0/</guid>
+      <description>Hi all! There was a quick update in OpenQVision.
+I was talking to my friend Audrey Siqueira (https://github.com/audrey-siqueira) the other day and he suggested me to check whether it was possible to include object detection in images or videos, so expand OpenQVision scope beyond real time camera streaming.
+That change was pretty quick. Just one day after lauching v1.0.0, v1.1.0 is available. It is already merged to the main branch of OpenQVision official repository (https://github.</description>
+      <content>&lt;p&gt;Hi all! There was a quick update in OpenQVision.&lt;/p&gt;
+&lt;p&gt;I was talking to my friend Audrey Siqueira (&lt;a href=&#34;https://github.com/audrey-siqueira&#34;&gt;https://github.com/audrey-siqueira&lt;/a&gt;) the other day and he suggested me to check whether it was possible to include object detection in images or videos, so expand OpenQVision scope beyond real time camera streaming.&lt;/p&gt;
+&lt;p&gt;That change was pretty quick. Just one day after lauching v1.0.0, v1.1.0 is available. It is already merged to the main branch of OpenQVision official repository (&lt;a href=&#34;https://github.com/dev-gazer/OpenQVision)&#34;&gt;https://github.com/dev-gazer/OpenQVision)&lt;/a&gt;. A first taste of OpenQVision v1.1.0 is displayed below:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dev-gazer.github.io/OpenQVision-MainWindow2.png&#34; alt=&#34;OpenQVision v1.1.0 Main Window&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Follow me there, make your forks and ask for merge!&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;Now playing Glare - Blank&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>New blog on and OpenQVision</title>
       <link>https://dev-gazer.github.io/posts/openqvision/</link>
       <pubDate>Tue, 24 Aug 2021 17:35:46 -0300</pubDate>
