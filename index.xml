@@ -8,6 +8,28 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-gazer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OpenQVision v1.1.1</title>
+      <link>https://dev-gazer.github.io/posts/openqvision_v1.1.1/</link>
+      <pubDate>Fri, 27 Aug 2021 10:20:21 -0300</pubDate>
+      
+      <guid>https://dev-gazer.github.io/posts/openqvision_v1.1.1/</guid>
+      <description>Saturday morning, quick update here.
+The Telegram support is still only for Yolo detection models, however you can set it explicitly in the UI, not anymore inside the code, with your own user ID and Bot Token.
+And noooooooowwww the best news ever!
+It is right now deployed for distribution as an AppImage. That means, if you go to OpenQVision official GitHub ( https://github.com/dev-gazer/OpenQVision ), you&amp;rsquo;ll find in the dist folder an image anyone can run (sure, if you are a Linux user).</description>
+      <content>&lt;p&gt;Saturday morning, quick update here.&lt;/p&gt;
+&lt;p&gt;The Telegram support is still only for Yolo detection models, however you can set it explicitly in the UI, not anymore inside the code, with your own user ID and Bot Token.&lt;/p&gt;
+&lt;p&gt;And noooooooowwww the best news ever!&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It is right now deployed for distribution as an AppImage&lt;/em&gt;. That means, if you go to OpenQVision official GitHub ( &lt;a href=&#34;https://github.com/dev-gazer/OpenQVision&#34;&gt;https://github.com/dev-gazer/OpenQVision&lt;/a&gt; ), you&amp;rsquo;ll find in the dist folder an image anyone can run (sure, if you are a Linux user).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dev-gazer.github.io/OpenQVision-MainWindow3.png&#34; alt=&#34;OpenQVision v1.1.1 Main Window&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Super excited with the new ideas to come to OpenQVision.&lt;/p&gt;
+&lt;p&gt;Once again, follow me on GitHub and/or Twitter @dev_gazer, make your forks and ask for merge!&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;Now playing Basement - DUI&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>OpenQVision v1.1.0</title>
       <link>https://dev-gazer.github.io/posts/openqvision_v1.1.0/</link>
       <pubDate>Thu, 26 Aug 2021 14:50:34 -0300</pubDate>

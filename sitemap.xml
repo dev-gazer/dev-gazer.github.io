@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dev-gazer.github.io/posts/openqvision_v1.1.0/</loc>
-    <lastmod>2021-08-26T14:50:34-03:00</lastmod>
+    <loc>https://dev-gazer.github.io/posts/openqvision_v1.1.1/</loc>
+    <lastmod>2021-08-27T10:20:21-03:00</lastmod>
   </url>
   
   <url>
     <loc>https://dev-gazer.github.io/posts/</loc>
+    <lastmod>2021-08-27T10:20:21-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://dev-gazer.github.io/posts/openqvision_v1.1.0/</loc>
     <lastmod>2021-08-26T14:50:34-03:00</lastmod>
   </url>
   
