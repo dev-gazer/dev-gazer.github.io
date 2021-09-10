@@ -8,6 +8,26 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dev-gazer.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>browserless v0.1.0</title>
+      <link>https://dev-gazer.github.io/posts/browserless/</link>
+      <pubDate>Fri, 10 Sep 2021 19:50:21 -0300</pubDate>
+      
+      <guid>https://dev-gazer.github.io/posts/browserless/</guid>
+      <description>Just about to call it a day, I must say to you people I am trying to build a browser from scratch. And it seems to work pretty well right now, I must confess.
+If you&amp;rsquo;ve got the gaze as me, you&amp;rsquo;ll definitely name it some ethereal beauty like My Bloody Valentine Loveless, why not? And that&amp;rsquo;s the direction here. It is called browserless.
+My intentions here are not to start a revolution or reinvent the wheel.</description>
+      <content>&lt;p&gt;Just about to call it a day, I must say to you people I am trying to build a browser from scratch. And it seems to work pretty well right now, I must confess.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;ve got the gaze as me, you&amp;rsquo;ll definitely name it some ethereal beauty like My Bloody Valentine Loveless, why not? And that&amp;rsquo;s the direction here. It is called &lt;code&gt;browserless&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;My intentions here are not to start a revolution or reinvent the wheel. That is only my way to avoid newspapers paywalls and practice both my C++ and Qt skills while creating sorta lightweight browser for Linux users.&lt;/p&gt;
+&lt;p&gt;Yeah, I will later add new features to OpenQVision, but I haven&amp;rsquo;t decided about them yet, and I am pretty lazy as well. I&amp;rsquo;d rather play retro games and sleep instead.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dev-gazer.github.io/browserless.png&#34; alt=&#34;Usage example of browserless&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Follow me on GitHub and/or Twitter @dev_gazer, and remember: sometimes antisocial, always antifascist.&lt;/p&gt;
+&lt;p&gt;Cheers!&lt;/p&gt;
+&lt;p&gt;Now playing My Bloody Valentine - Loveless &lt;strong&gt;ON REPEAT TILL EARS FALL OFF&lt;/strong&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>OpenQVision v1.1.1</title>
       <link>https://dev-gazer.github.io/posts/openqvision_v1.1.1/</link>
       <pubDate>Fri, 27 Aug 2021 10:20:21 -0300</pubDate>
