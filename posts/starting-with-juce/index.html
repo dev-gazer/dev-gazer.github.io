@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  
+    <title>Starting With Juce :: Dev Gazer</title>
+  
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="So this is the real deal if you want to be cool.
+I abandoned the stupid idea of creating a browser from scratch that can barely run GitHub or even play some videos on YouTube and decided to focus on good stuff. That&amp;rsquo;s when I decided to learn more about audio processing with Juce.
+My friend Julia Kaffka sent me a link about some Python library from Spotify that was created for musicians or producers." />
+<meta name="keywords" content=", " />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://dev-gazer.github.io/posts/starting-with-juce/" />
+
+
+
+
+<link rel="stylesheet" href="https://dev-gazer.github.io/assets/style.css">
+
+  <link rel="stylesheet" href="https://dev-gazer.github.io/assets/red.css">
+
+
+
+
+
+
+<link rel="apple-touch-icon" href="https://dev-gazer.github.io/img/apple-touch-icon-192x192.png">
+
+  <link rel="shortcut icon" href="https://dev-gazer.github.io/img/favicon/red.png">
+
+
+
+<meta name="twitter:card" content="summary" />
+
+  
+    <meta name="twitter:site" content="" />
+  
+    <meta name="twitter:creator" content="dev-gazer" />
+
+
+
+<meta property="og:locale" content="en" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Starting With Juce">
+<meta property="og:description" content="So this is the real deal if you want to be cool.
+I abandoned the stupid idea of creating a browser from scratch that can barely run GitHub or even play some videos on YouTube and decided to focus on good stuff. That&amp;rsquo;s when I decided to learn more about audio processing with Juce.
+My friend Julia Kaffka sent me a link about some Python library from Spotify that was created for musicians or producers." />
+<meta property="og:url" content="https://dev-gazer.github.io/posts/starting-with-juce/" />
+<meta property="og:site_name" content="Dev Gazer" />
+
+  <meta property="og:image" content="https://dev-gazer.github.io/">
+
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+
+  <meta property="article:published_time" content="2021-09-18 23:44:13 -0300 -03" />
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body class="red">
+
+
+<div class="container headings--one-size">
+
+  <header class="header">
+  <div class="header__inner">
+    <div class="header__logo">
+      <a href="/">
+  <div class="logo">
+    Dev Gazer Blog
+  </div>
+</a>
+
+    </div>
+    
+      <div class="menu-trigger">menu</div>
+    
+  </div>
+  
+    <nav class="menu">
+  <ul class="menu__inner menu__inner--desktop">
+    
+      
+        
+          <li><a href="/about">About</a></li>
+        
+      
+      
+    
+
+    
+  </ul>
+
+  <ul class="menu__inner menu__inner--mobile">
+    
+      
+        <li><a href="/about">About</a></li>
+      
+    
+    
+  </ul>
+</nav>
+
+  
+</header>
+
+
+  <div class="content">
+    
+<div class="post">
+  <h1 class="post-title">
+    <a href="https://dev-gazer.github.io/posts/starting-with-juce/">Starting With Juce</a></h1>
+  <div class="post-meta">
+    
+      <span class="post-date">
+        2021-09-18 
+      </span>
+    
+    
+    <span class="post-author">:: dev-gazer</span>
+    
+  </div>
+
+  
+  <span class="post-tags">
+    
+    #<a href="https://dev-gazer.github.io/tags/"></a>&nbsp;
+    
+    #<a href="https://dev-gazer.github.io/tags/"></a>&nbsp;
+    
+  </span>
+  
+
+  
+
+  
+
+  <div class="post-content"><div>
+        <p>So this is the real deal if you want to be cool.</p>
+<p>I abandoned the stupid idea of creating a browser from scratch that can barely run GitHub or even play some videos on YouTube and decided to focus on good stuff. That&rsquo;s when I decided to learn more about audio processing with Juce.</p>
+<p>My friend Julia Kaffka sent me a link about some Python library from Spotify that was created for musicians or producers. Yeah, if I say Python sucks, it is a lie. It pays my bills for quite a time now and I have no complaints about it.</p>
+<p>But let us be honest and straightforward: it is not the best language when you&rsquo;re dealing with real time signal processing. That may demand more processing that is needed if you&rsquo;re working with C++ or something like that.</p>
+<p>For my surprise, a quick look at this Spotishit library repo on GitHub: it is a cool disguise for C++ Juce Framework with some ports for Python language. Let us then try Juce from its basics.</p>
+<p>I looked online and have found a pretty fresh full course on freeCodeCamp (<a href="https://www.youtube.com/watch?v=i_Iq4_Kd7Rc">https://www.youtube.com/watch?v=i_Iq4_Kd7Rc</a>) by Chuck from MatKat Music. His tutorial is mostly for Mac users, but if you are familiar with Linux and knows how to handle Makefiles to compile your code, you&rsquo;ll be fine.</p>
+<p><img src="/juce-1.png" alt="Learn Modern C++ by Building an Audio Plugin (w/ JUCE Framework) - Full Course"></p>
+<p>In this course you&rsquo;ll learn not Modern C++, but how to create audio processors with Juce, and it is pretty tough, I must say. Advanced stuff going on all the time.</p>
+<p>We have built a cool Simple Equalizer plugin that can run on any DAW or maybe a dedicated device (would I try it on a Raspberry Pi some day?), and Chuck also gives a brief overlook on his personal courses. I am convinced of taking his lessons in a near future. Check at <a href="https://www.programmingformusicians.com/pfmcpp/">https://www.programmingformusicians.com/pfmcpp/</a>.</p>
+<p>There is a snapshot of me running SimpleEq on our beloved Reaper.
+<img src="/juce-2.png" alt="SimpleEq running on Reaper"></p>
+<p>Cool stuff. I will start trying to build a delay effect on Monday. Let us see. Gazers have to gaze.</p>
+<p>Bye then folks!</p>
+<p>Alex</p>
+<p>(Now playing Milly - Star Thistle Blossom)</p>
+
+      </div></div>
+
+  
+  
+<div class="pagination">
+    <div class="pagination__title">
+        <span class="pagination__title-h">Read other posts</span>
+        <hr />
+    </div>
+    <div class="pagination__buttons">
+        
+        
+        <span class="button next">
+            <a href="https://dev-gazer.github.io/posts/browserless/">
+                <span class="button__text">browserless v0.1.0</span>
+                <span class="button__icon">→</span>
+            </a>
+        </span>
+        
+    </div>
+</div>
+
+  
+
+  
+
+</div>
+
+  </div>
+
+  
+    <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© 2021 Powered by <a href="http://gohugo.io">Hugo</a></span>
+    
+        <span>:: Theme made by <a href="https://twitter.com/panr">panr</a></span>
+      </div>
+  </div>
+</footer>
+
+<script src="https://dev-gazer.github.io/assets/main.js"></script>
+<script src="https://dev-gazer.github.io/assets/prism.js"></script>
+
+
+
+
+
+
+
+  
+</div>
+
+</body>
+</html>
